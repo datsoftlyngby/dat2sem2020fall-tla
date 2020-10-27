@@ -6,6 +6,7 @@
        bean-discovery-mode="all">
     <alternatives>
         <!--class>dk.cphbusiness.tla.configurations.Testing</class-->
+        <class>dk.cphbusiness.tla.configurations.Faking</class>
     </alternatives>
 
 </beans>
